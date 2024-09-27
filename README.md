@@ -34,7 +34,7 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,vscode,github,git" />
-    <img src="https://skillicons.dev/icons?i=python,aws,docker,linux" /><br>
+    <img src="https://skillicons.dev/icons?i=python,aws,linux" /><br>
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
