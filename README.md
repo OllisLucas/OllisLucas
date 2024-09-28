@@ -2,13 +2,11 @@
   <strong> Hello, World!✌🌎 </strong>
 </h2>
 
-<div align="center" ><img width="100%" height="100%" style="object-fit: cover;" src="./my-gif-banner.gif" alt="" /></div>
+<div align="center" ><img width="100%" height="100%" style="object-fit: cover;" src="./assets/meu_banner.jpeg" alt="" /></div>
 
 </br>
 
 <p align="left"><strong>Hi 👋! My name is Lucas Oliveira and I'm a Data Analyst from Brazil.</strong></p>
-
-<img src="./my-logo.png" alt="minha logo" min-width="156px" max-width="156px" width="156px" align="right">
 
 <p align="left"> 
  <strong> Meu nome é Lucas Oliveira , seja bem vindo ao meu Github. </strong>
@@ -102,14 +100,16 @@
 
 <p><strong>Meu Github</strong></p>
 
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=Joaommsp&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Joaommsp&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Joaommsp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div align="left" style="display: flex; flex-direction: row;">
+
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com/?user=OllisLucas&theme=city_lights" alt="GitHub Streak"/>
+  </a>
+
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=OllisLucas&theme=city_lights" alt="GitHub Stats"/>
+  </a>
+
 </div>
 
 #
-
-<div align="left">
-   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" height="180" alt="Random Dev Quote" /> <br>
-</div>
