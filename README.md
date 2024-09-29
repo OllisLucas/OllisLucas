@@ -77,7 +77,7 @@
 <p align="left"><strong>Formação Acadêmica</strong></p>
 
 <div>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/62/Logo_unifacs.jpg" alt="unifacs Logo"
+  <img src="assets/Logo_unifacs.jpg" alt="unifacs Logo"
   min-width="74px" max-width="74px" width="74px" align="left" style="border-radius: 5px; margin-right: 10px;">
   <br/>
  
@@ -100,16 +100,9 @@
 
 <p><strong>Meu Github</strong></p>
 
-<div align="left" style="display: flex; flex-direction: row;">
-
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com/?user=OllisLucas&theme=city_lights" alt="GitHub Streak"/>
-  </a>
-
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=OllisLucas&theme=city_lights" alt="GitHub Stats"/>
-  </a>
-
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=OllisLucas&theme=city_lights" alt="GitHub Stats" height="180em"/>
+  <img src="https://streak-stats.demolab.com/?user=OllisLucas&theme=city_lights" alt="GitHub Streak" height="180em"/>
 </div>
 
 #
