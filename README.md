@@ -95,7 +95,3 @@
 </div>
 
 #
-
-<div align="center">
-   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" height="180" alt="Random Dev Quote" /> <br>
-</div>
