@@ -100,9 +100,7 @@
 
 <p><strong>Meu Github</strong></p>
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=OllisLucas&theme=city_lights" alt="GitHub Stats" height="180em"/>
-  <img src="https://streak-stats.demolab.com/?user=OllisLucas&theme=city_lights" alt="GitHub Streak" height="180em"/>
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OllisLucas&theme=city_lights)  ![GitHub Streak](https://streak-stats.demolab.com/?user=OllisLucas&theme=city_lights) 
+
 
 #
