@@ -62,26 +62,21 @@
 
 #
 
-<p align="left"><strong>Formação Acadêmica</strong></p>
+### Formação Acadêmica
 
 <div>
-  <img src="assets/Logo_unifacs.jpg" alt="unifacs Logo"
-  min-width="74px" max-width="74px" width="74px" align="left" style="border-radius: 5px; margin-right: 10px;">
-  <br/>
- 
-  **Bacharelado em Ciências da Computação** \
-  [**UNIFACS**](https://www.unifacs.br/) • Centro Universitário Tancredo Neves • 7° Período
-  <br/>
+  <img src="assets/Logo_unifacs.jpg" alt="unifacs Logo" width="74px" align="left" style="border-radius: 5px; margin-right: 10px;">
+  <strong>Bacharelado em Ciências da Computação</strong><br>
+  <a href="https://www.unifacs.br/"><strong>UNIFACS</strong></a> • Centro Universitário Tancredo Neves • 7° Período
+</div>
 
-  
-  <img src="assets/compass_uol_logo.jpeg" alt="compass uol Logo"
-  min-width="74px" max-width="74px" width="74px" align="left" style="border-radius: 5px; margin-right: 10px;">
- 
+<br clear="left"/>
 
-
-  **Formação Data Analyst** \
-  [**Compass UOL**](https://compass.uol/pt/home/) \
-  Linguagens & Tecnologias: `Linux`, `Git&GitHub`, `SQL`, `Python`, `Docker` ,`Spark` ,`AWS`
+<div>
+  <img src="assets/compass_uol_logo.jpeg" alt="compass uol Logo" width="74px" align="left" style="border-radius: 5px; margin-right: 10px;">
+  <strong>Formação Data Analyst</strong><br>
+  <a href="https://compass.uol/pt/home/"><strong>Compass UOL</strong></a><br>
+  Linguagens & Tecnologias: <code>Linux</code>, <code>Git&GitHub</code>, <code>SQL</code>, <code>Python</code>, <code>Docker</code>, <code>Spark</code>, <code>AWS</code>
 </div>
 
 #
