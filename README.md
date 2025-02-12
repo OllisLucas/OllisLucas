@@ -37,15 +37,13 @@ Me chamo Lucas Oliveira, tenho 22 anos e sou natural de Salvador, Bahia. Estou n
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="35" height="35" style="margin-right: 15px;" />
 </p>
 
----
-
 ### 📊 Estatísticas
 
 <p>
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="180" 
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=OllisLucas&show_icons=true&theme=graywhite&incled_all_commits=true&locale=pt-br" 
   />
@@ -53,7 +51,7 @@ Me chamo Lucas Oliveira, tenho 22 anos e sou natural de Salvador, Bahia. Estou n
 <img 
       align="left" 
       alt="GitHub Stats" 
-      height="200" 
+      height="180" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=OllisLucas&hide_progress=true&theme=graywhite&layout=donut-vertical&custom_title=Tecnologias" 
   />
 
