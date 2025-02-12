@@ -1,8 +1,10 @@
-# 👩🏻‍💻 Lucas Oliveira
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DC143C&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Lucas+Macedo;I'm+from+Brazil;I'm+Graduating+in+Computer+Science;I'm+Cloud+Data+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 **`Engenharia & Análise de Dados`**
 
-Me chamo Lucas Oliveira, tenho 22 anos e sou natural de Salvador, Bahia. Estou no 8° semestre de Ciência da Computação na [UNIFACS](https://www.unifacs.br/) e recentemente atuei como interno no programa de capacitação da [Compass UOL](https://compass.uol/en/home/), onde me preparei para me especializar na área de engenharia, análise e visualização de dados. Sou apaixonado por tecnologia, estou sempre buscando novos desafios e aprimorando minhas habilidades na área de dados.
+Me chamo Lucas Oliveira, tenho 22 anos e sou natural de Salvador, Bahia. Estou no 8° semestre de Ciência da Computação na UNIFACS e recentemente atuei como interno no programa de capacitação da [Compass UOL](https://compass.uol/en/home/), onde me preparei para me especializar na área de engenharia, análise e visualização de dados. Sou apaixonado por tecnologia, estou sempre buscando novos desafios e aprimorando minhas habilidades na área de dados.
 
 
 <div style="display: flex; gap: 10px;">
@@ -39,12 +41,18 @@ Me chamo Lucas Oliveira, tenho 22 anos e sou natural de Salvador, Bahia. Estou n
 
 ### 📊 Estatísticas
 
-<p>
+<div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
   <img 
-    align="left" 
     alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=OllisLucas&show_icons=true&theme=graywhite&incled_all_commits=true&locale=pt-br" 
+    height="150" 
+    src="https://github-readme-stats.vercel.app/api?username=OllisLucas&show_icons=true&theme=graywhite&include_all_commits=true&locale=pt-br" 
   />
-</p>
+  <img 
+    alt="Top Langs" 
+    height="150" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=OllisLucas&hide_progress=true&theme=graywhite&layout=donut-vertical&custom_title=Tecnologias" 
+  />
+</div>
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=120&section=footer"/>
