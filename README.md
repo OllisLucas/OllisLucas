@@ -1,11 +1,10 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=DC143C&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DC143C&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Lucas+Macedo;I'm+from+Brazil;I'm+Graduating+in+Computer+Science;I'm+Cloud+Data+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=DC143C&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Lucas;I'm+from+Brazil;I'm+Graduating+in+Computer+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-**`Engenharia & Análise de Dados`**
+**`Data Engineering & Analysis`**
 
-Me chamo Lucas Oliveira, tenho 22 anos e sou natural de Salvador, Bahia. Estou no 8° semestre de Ciência da Computação na [UNIFACS](https://www.unifacs.br) e recentemente atuei como interno no programa de capacitação da [Compass UOL](https://compass.uol/en/home/), onde me preparei para me especializar na área de engenharia, análise e visualização de dados. Sou apaixonado por tecnologia, estou sempre buscando novos desafios e aprimorando minhas habilidades na área de dados.
-
+My name is Lucas Oliveira, I am 22 years old, and I am from Salvador, Bahia. I am in the 8th semester of Computer Science at, [UNIFACS](https://www.unifacs.br), and I recently worked as an intern in the training program at [COMPASS UOL](https://compass.uol/en/home/), where I prepared to specialize in data engineering, analysis, and visualization. I am passionate about technology, always seeking new challenges and improving my skills in the data field.
 
 <div style="display: flex; gap: 10px;">
     <a href="https://www.reddit.com/user/SeniorCod9374" target="_blank">
@@ -23,7 +22,7 @@ Me chamo Lucas Oliveira, tenho 22 anos e sou natural de Salvador, Bahia. Estou n
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages and Technologies
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="35" height="35" style="margin-right: 15px;" />
@@ -39,13 +38,13 @@ Me chamo Lucas Oliveira, tenho 22 anos e sou natural de Salvador, Bahia. Estou n
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="35" height="35" style="margin-right: 15px;" />
 </p>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <div style="display: flex; align-items: center; justify-content: center; gap: 10px;">
   <img 
     alt="GitHub Stats" 
     height="250" 
-    src="https://github-readme-stats.vercel.app/api?username=OllisLucas&show_icons=true&theme=shadow_red&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=OllisLucas&show_icons=true&theme=shadow_red&include_all_commits=true&locale=en" 
   />
 </div>
 
